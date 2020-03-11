@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-Projects
-Data Preprocessing and EDA of Fifa Players.
+# This repository consists of Data Preprocessing and EDA of datasets.
